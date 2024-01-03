@@ -3,7 +3,7 @@
 ### What is this? 📌
 This collection of resources guides the people of freedom and humanity in boycotting israeli occupation's products and companies in solidarity with Palestine, demanding their freedom and restitution of rights.
 
-### 📧 Contact Us 📧
+### Contact Us 📧
 If you want to help us, suggest something, or provide feedback or suggestions for improvement, you are encouraged to contact us through our email <palestine@tutamail.com>, please include `Boycott` in the subject line of your email.
 
 ### Websites 🌐
