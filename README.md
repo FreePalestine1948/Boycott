@@ -7,6 +7,7 @@ This collection of resources guides the people of freedom and humanity in boycot
 If you want to help us, suggest something, or provide feedback or suggestions for improvement, you are encouraged to contact us through our email <palestine@tutamail.com>, please include `Boycott` in the subject line of your email.
 
 ### Websites 🌐
+- [Boycot Zionism](https://www.boycotzionism.com/): Your Wallet, Their Freedom: Boycott Zionism, Support Palestine!
 - [Bdnaash](https://bdnaash.com/): Search-based website to find if a product support israel or not.
 - [Qate3](https://www.qate3-israel.com/): Comprehensive list of what to boycott, why, and what are the alternatives with the ability to search and add more companies to boycott.
 - [Brands Support Israel](https://theislamicinformation.com/news/list-of-brands-supporting-israel/): List of brands supporting israel to boycott.
