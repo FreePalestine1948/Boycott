@@ -25,6 +25,8 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 - [Boycott Complicit Israeli Tech](https://genocide.vc/bit/): List of tech israeli companies to boycott with detailed information on the companies.
 - [Israel Tech Companies](https://buyisraelitech.com/): Israeli website shows the israeli tech companies which you could use to know what to boycott.
 - [Israel Boycott](https://github.com/lirantal/awesome-opensource-israel#companies): List of israel companies and projects to boycott for developers.
+- [AFSC](https://afsc.org/companies-behind-2023-attack-gaza): The Companies Profiting from Israel’s 2023 Attack on Gaza.
+- [WhoProfits](https://www.whoprofits.org/): Who Profits Research Center is an independent research center dedicated to exposing the commercial involvement of Israeli and international corporations in the ongoing Israeli occupation of Palestinian and Syrian land and population.
 - [Badeel](https://badeel.wiki/): List of products supporting the Zionist entity and local alternatives.
 
 ### BDS 🛑
