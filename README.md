@@ -1,4 +1,12 @@
-# Boycott
+# Boycott 
+
+<a href="https://techforpalestine.org/">
+<img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg">
+</a>
+
+<a href="https://techforpalestine.org/">
+<img src="https://badge.techforpalestine.org/default">
+</a>
 
 ### What is this? 📌
 This collection of resources guides the people of freedom and humanity in boycotting israeli occupation's products and companies in solidarity with Palestine, demanding their freedom and restitution of rights.
