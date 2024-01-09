@@ -15,6 +15,7 @@ This collection of resources guides the people of freedom and humanity in boycot
 If you want to help us, suggest something, or provide feedback or suggestions for improvement, you are encouraged to contact us through our email <palestine@tutamail.com>, please include `Boycott` in the subject line of your email.
 
 ### Websites 🌐
+- [BoycottAsOne](https://sites.google.com/view/boycottasone/home)
 - [Israeli Tech Alternatives](https://www.israelitechalternatives.com/): Our mission is to provide great alternatives to all tech companies that contribute to the Palestinian genocide that you can use TODAY.
 - [Boycott Zionism](https://www.boycotzionism.com/): Your Wallet, Their Freedom: Boycott Zionism, Support Palestine!
 - [Bdnaash](https://bdnaash.com/): Search-based website to find if a product support israel or not.
@@ -28,6 +29,7 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 - [AFSC](https://afsc.org/companies-behind-2023-attack-gaza): The Companies Profiting from Israel’s 2023 Attack on Gaza.
 - [WhoProfits](https://www.whoprofits.org/): Who Profits Research Center is an independent research center dedicated to exposing the commercial involvement of Israeli and international corporations in the ongoing Israeli occupation of Palestinian and Syrian land and population.
 - [Badeel](https://badeel.wiki/): List of products supporting the Zionist entity and local alternatives.
+- [The official links for No Thanks App](https://linktr.ee/Nothanksboycott)
 
 ### BDS 🛑
 The BDS movement is:
@@ -37,10 +39,17 @@ The BDS movement is:
 - [BDS - Instagram](https://www.instagram.com/bdsnationalcommittee/)
 - [BDS - Facebook](https://www.facebook.com/BDSNationalCommittee)
 
-### Android applications 📱
+### Android Applications 📱
 - [No Thanks](https://play.google.com/store/apps/details?id=com.bashsoftware.boycott)
 - [Qadyaty|قضيتي](https://play.google.com/store/apps/details?id=hasnaa.ms_tree.qadyaty)
 - [Boycott - Israeli Products](https://play.google.com/store/apps/details?id=com.erbasaran.boycott)
 - [Sa7wa | صحوة](https://play.google.com/store/apps/details?id=com.agsoft.ps_product_barcode_search)
+
+### IOS Applications 📱
+- [Belzamesh | بلزمش](https://apps.apple.com/se/app/belzamesh-%D8%A8%D9%84%D8%B2%D9%85%D8%B4/id6472342593?l=en-GB)
+
+### Chrome Extensions
+- [PalestinePact](https://chromewebstore.google.com/detail/palestinepact/gengdkfcffpnjfolbcbhfiocemfinkem)
+- [Ethicly](https://chromewebstore.google.com/detail/ethicly/ogkcaaedackbplbpmeempokiibfmekba)
 
 ### [Images 📸](https://github.com/FreePalestine1948/Boycott/blob/main/Images.md)
