@@ -16,6 +16,7 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 
 ### Websites 🌐
 - [BoycottAsOne](https://sites.google.com/view/boycottasone/home)
+- [7amleh](https://7amleh.org/): The Arab Center for the Advancement of Social Media is a non-profit organization that advocates for Palestinian digital rights.
 - [Israeli Tech Alternatives](https://www.israelitechalternatives.com/): Our mission is to provide great alternatives to all tech companies that contribute to the Palestinian genocide that you can use TODAY.
 - [Boycott Zionism](https://www.boycotzionism.com/): Your Wallet, Their Freedom: Boycott Zionism, Support Palestine!
 - [Bdnaash](https://bdnaash.com/): Search-based website to find if a product support israel or not.
@@ -51,5 +52,8 @@ The BDS movement is:
 ### Chrome Extensions
 - [PalestinePact](https://chromewebstore.google.com/detail/palestinepact/gengdkfcffpnjfolbcbhfiocemfinkem)
 - [Ethicly](https://chromewebstore.google.com/detail/ethicly/ogkcaaedackbplbpmeempokiibfmekba)
+
+### Telegram Bots
+- [Boycott Center](https://t.me/boycottcenter_bot)
 
 ### [Images 📸](https://github.com/FreePalestine1948/Boycott/blob/main/Images.md)
