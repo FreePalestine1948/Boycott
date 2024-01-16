@@ -55,5 +55,3 @@ The BDS movement is:
 
 ### Telegram Bots
 - [Boycott Center](https://t.me/boycottcenter_bot)
-
-### [Images 📸](https://github.com/FreePalestine1948/Boycott/blob/main/Images.md)
