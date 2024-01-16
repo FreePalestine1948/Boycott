@@ -18,6 +18,7 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 - [BoycottAsOne](https://sites.google.com/view/boycottasone/home)
 - [7amleh](https://7amleh.org/): The Arab Center for the Advancement of Social Media is a non-profit organization that advocates for Palestinian digital rights.
 - [Israeli Tech Alternatives](https://www.israelitechalternatives.com/): Our mission is to provide great alternatives to all tech companies that contribute to the Palestinian genocide that you can use TODAY.
+- [Mustaghni](https://www.mustaghni.org/en): Easily search for brands associated with genocide in Palestine.
 - [Boycott Zionism](https://www.boycotzionism.com/): Your Wallet, Their Freedom: Boycott Zionism, Support Palestine!
 - [Bdnaash](https://bdnaash.com/): Search-based website to find if a product support israel or not.
 - [Qate3](https://www.qate3-israel.com/): Comprehensive list of what to boycott, why, and what are the alternatives with the ability to search and add more companies to boycott.
