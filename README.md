@@ -18,6 +18,8 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 - [BoycottAsOne](https://sites.google.com/view/boycottasone/home)
 - [7amleh](https://7amleh.org/): The Arab Center for the Advancement of Social Media is a non-profit organization that advocates for Palestinian digital rights.
 - [Israeli Tech Alternatives](https://www.israelitechalternatives.com/): Our mission is to provide great alternatives to all tech companies that contribute to the Palestinian genocide that you can use TODAY.
+- [TheWitness](https://boycott.thewitness.news/): Provides the proof of the brands supporting israel.
+
 - [Mustaghni](https://www.mustaghni.org/en): Easily search for brands associated with genocide in Palestine.
 - [Boycott Zionism](https://www.boycotzionism.com/): Your Wallet, Their Freedom: Boycott Zionism, Support Palestine!
 - [Bdnaash](https://bdnaash.com/): Search-based website to find if a product support israel or not.
@@ -29,7 +31,10 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 - [Israel Tech Companies](https://buyisraelitech.com/): Israeli website shows the israeli tech companies which you could use to know what to boycott.
 - [Israel Boycott](https://github.com/lirantal/awesome-opensource-israel#companies): List of israel companies and projects to boycott for developers.
 - [AFSC](https://afsc.org/companies-behind-2023-attack-gaza): The Companies Profiting from Israel’s 2023 Attack on Gaza.
+- [Investigate - AFSC](https://investigate.afsc.org/updates/un-list): UN List Of Companies Involved In Illegal Israeli Settlements In The Occupied Palestinian Territory.
 - [WhoProfits](https://www.whoprofits.org/): Who Profits Research Center is an independent research center dedicated to exposing the commercial involvement of Israeli and international corporations in the ongoing Israeli occupation of Palestinian and Syrian land and population.
+- [FOA](https://www.foa.org.uk/): Anti-apartheid organisation in the UK, led by volunteers and based on international law and UN resolutions.
+- [Ulastempat](https://www.ulastempat.com/international/200-bds-movement-boycott-list-updated/): 200+ BDS Movement Boycott List.
 - [Badeel](https://badeel.wiki/): List of products supporting the Zionist entity and local alternatives.
 - [The official links for No Thanks App](https://linktr.ee/Nothanksboycott)
 
