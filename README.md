@@ -28,7 +28,6 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 - [Companies that have condemned hamas](https://som.yale.edu/story/2023/list-companies-have-condemned-hamas-terrorist-attack-israel): Companies that accuse Hamas resistance of terrorism.
 - [Boycott Israel Tech](https://boycottisraelitech.com/): Comprehensive list of tech israeli companies to boycott.
 - [Boycott Complicit Israeli Tech](https://genocide.vc/bit/): List of tech israeli companies to boycott with detailed information on the companies.
-- [Israel Tech Companies](https://buyisraelitech.com/): Israeli website shows the israeli tech companies which you could use to know what to boycott.
 - [Israel Boycott](https://github.com/lirantal/awesome-opensource-israel#companies): List of israel companies and projects to boycott for developers.
 - [AFSC](https://afsc.org/companies-behind-2023-attack-gaza): The Companies Profiting from Israel’s 2023 Attack on Gaza.
 - [Investigate - AFSC](https://investigate.afsc.org/updates/un-list): UN List Of Companies Involved In Illegal Israeli Settlements In The Occupied Palestinian Territory.
@@ -37,6 +36,11 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 - [Ulastempat](https://www.ulastempat.com/international/200-bds-movement-boycott-list-updated/): 200+ BDS Movement Boycott List.
 - [Badeel](https://badeel.wiki/): List of products supporting the Zionist entity and local alternatives.
 - [The official links for No Thanks App](https://linktr.ee/Nothanksboycott)
+
+### Tech israeli networks and organizations leaders and investors
+- [Israel Tech Companies](https://buyisraelitech.com/)
+- [TechAviv](https://www.techaviv.com/)
+- [CyberMap](https://www.cybermap.co/)
 
 ### BDS 🛑
 The BDS movement is:
