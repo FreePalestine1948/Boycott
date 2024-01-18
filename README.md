@@ -58,6 +58,7 @@ The BDS movement is:
 
 ### IOS Applications 📱
 - [Belzamesh | بلزمش](https://apps.apple.com/se/app/belzamesh-%D8%A8%D9%84%D8%B2%D9%85%D8%B4/id6472342593?l=en-GB)
+- [Boycat](https://apps.apple.com/us/app/boycat/id6474510742)
 
 ### Chrome Extensions
 - [PalestinePact](https://chromewebstore.google.com/detail/palestinepact/gengdkfcffpnjfolbcbhfiocemfinkem)
