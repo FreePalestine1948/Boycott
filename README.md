@@ -38,6 +38,7 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 * [FOA](https://www.foa.org.uk/): Anti-apartheid organisation in the UK, led by volunteers and based on international law and UN resolutions.
 * [Boycat](https://www.boycat.io/)
 * [The official links for No Thanks App](https://linktr.ee/Nothanksboycott)
+* [USACBI](https://usacbi.org/): This is a US campaign focused on a boycott of Israeli academic and cultural institutions, responding to the call of Palestinian civil society to join the Boycott, Divestment, and Sanctions movement against Israel.
 
 ### Tech israeli networks and organizations leaders and investors
 
@@ -66,6 +67,7 @@ The BDS movement is:
 * [Boycat](https://play.google.com/store/apps/details?id=com.boycat.app)
 * [Sa7wa | صحوة](https://play.google.com/store/apps/details?id=com.agsoft.ps\_product\_barcode\_search)
 * [Boycott - Israeli Products](https://play.google.com/store/apps/details?id=com.erbasaran.boycott)
+* [Boycott Products, Scan Barcode](https://play.google.com/store/apps/details?id=com.nzersun.project.boycott&hl=en_CA&gl=US)
 
 ### IOS Applications 📱
 
