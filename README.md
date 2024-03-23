@@ -20,6 +20,11 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 ### Websites 🌐
 
 * [BoycottAsOne](https://sites.google.com/view/boycottasone/home)
+* [INMINDS](http://www.inminds.com/)
+* [Badayli](https://badayli.com/eg-en/)
+* [Badael](https://www.badael.info/)
+* [Logos of Israeli companies](https://companieslogo.com/logos/israel/)
+* [Startupnationcentral](https://finder.startupnationcentral.org/startups/search?&status=Active): Startups and companies in Israel
 * [TheWitness](https://boycott.thewitness.news/): Provides the proof of the brands supporting israel.
 * [Mustaghni](https://www.mustaghni.org/en): Easily search for brands associated with genocide in Palestine.
 * [Boycott Zionism](https://www.boycotzionism.com/): Your Wallet, Their Freedom: Boycott Zionism, Support Palestine!
@@ -63,16 +68,18 @@ The BDS movement is:
 ### Android Applications 📱
 
 * [No Thanks](https://play.google.com/store/apps/details?id=com.bashsoftware.boycott)
-* [Qadyaty|قضيتي](https://play.google.com/store/apps/details?id=hasnaa.ms\_tree.qadyaty)
 * [Boycat](https://play.google.com/store/apps/details?id=com.boycat.app)
+* [Boycott X](https://play.google.com/store/apps/details?id=com.webnova.boycott)
+* [Qadyaty|قضيتي](https://play.google.com/store/apps/details?id=hasnaa.ms\_tree.qadyaty)
 * [Sa7wa | صحوة](https://play.google.com/store/apps/details?id=com.agsoft.ps\_product\_barcode\_search)
 * [Boycott - Israeli Products](https://play.google.com/store/apps/details?id=com.erbasaran.boycott)
 * [Boycott Products, Scan Barcode](https://play.google.com/store/apps/details?id=com.nzersun.project.boycott&hl=en_CA&gl=US)
 
 ### IOS Applications 📱
 
-* [Belzamesh | بلزمش](https://apps.apple.com/se/app/belzamesh-%D8%A8%D9%84%D8%B2%D9%85%D8%B4/id6472342593?l=en-GB)
 * [Boycat](https://apps.apple.com/us/app/boycat/id6474510742)
+* [Boycott X](https://apps.apple.com/in/app/boycott-x/id6473090034)
+* [Belzamesh | بلزمش](https://apps.apple.com/se/app/belzamesh-%D8%A8%D9%84%D8%B2%D9%85%D8%B4/id6472342593?l=en-GB)
 * [Boycott for Peace](https://apps.apple.com/us/app/boycott-for-peace/id6472617524)
 
 ### Chrome Extensions
