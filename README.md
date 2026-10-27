@@ -44,6 +44,7 @@ If you want to help us, suggest something, or provide feedback or suggestions fo
 * [Boycat](https://www.boycat.io/)
 * [The official links for No Thanks App](https://linktr.ee/Nothanksboycott)
 * [USACBI](https://usacbi.org/): This is a US campaign focused on a boycott of Israeli academic and cultural institutions, responding to the call of Palestinian civil society to join the Boycott, Divestment, and Sanctions movement against Israel.
+* [Showdown](https://showdown.group/): A registry of films and TV series recommended for boycott, with sources and suggested alternatives.
 
 ### Tech israeli networks and organizations leaders and investors
 
